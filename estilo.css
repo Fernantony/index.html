@@ -1,0 +1,30 @@
+h1 {
+   text-align: center;
+   margin-top: 20%;
+   font-family: 'Bungee', cursive;
+   font-family: 'Luckiest Guy', cursive;
+   color: darkorange;
+}
+h2 {
+
+    font-family: 'Cabin Sketch', cursive;
+    color:rgb(185, 43, 121);
+}
+I {
+
+    font-family: 'Bungee', cursive;
+    color: darkviolet;
+}
+body{
+    font-family: 'Mitr', sans-serif;
+    color: rgb(13, 13, 107);
+}
+a {
+    font-size: 20px;
+    text-decoration-color: none;
+    margin: 10px 20px;
+    display: inline-block;
+    background-color: cornflowerblue;
+    color:white;
+    padding: 10px 20px; 
+}
